@@ -10,12 +10,12 @@
   background-color: green;
 }
 
-.columns {
+/*.columns {
   width: 300px;
   float: left;
   background-color: red;
   word-wrap: break-word;
-}
+}*/
 
 .box {
   border: 2px solid green;
@@ -23,4 +23,12 @@
   margin: 30%;
   background-color: red;
   /*background-color: green;*/
+}
+
+
+.columns {
+  width: 300px;
+  float: left;
+  background-color: red;
+  word-wrap: break-word;
 }
